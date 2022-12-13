@@ -1,1 +1,3 @@
-# win_probability
+Sergey Li-Zan-Men lizanmensergej@gmail.com
+
+Test task to Datalouna
