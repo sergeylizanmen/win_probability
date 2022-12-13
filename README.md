@@ -1,3 +1,5 @@
 Sergey Li-Zan-Men lizanmensergej@gmail.com
 
-Test task to Datalouna
+Тестовое задание Datalouna
+
+Для быстрой проверки кода, можно установить константу N_PARAMS = 1
